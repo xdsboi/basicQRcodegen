@@ -1,1 +1,0 @@
-Very simple QR code generator using the goqr api (https://goqr.me/api/) which i made to learn how to make a python library! Use it like this: generateQR("Input text here").
